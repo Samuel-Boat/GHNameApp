@@ -1,0 +1,9 @@
+-IC:\Users\access\Desktop\CSIS252\CSIS252\Search_By_Day
+-Ic:\MinGW\include\c++\11.2.0
+-Ic:\MinGW\include\c++\11.2.0\x86_64-w64-mingw32
+-Ic:\MinGW\include\c++\11.2.0\backward
+-Ic:\MinGW\lib\gcc\x86_64-w64-mingw32\11.2.0\include
+-Ic:\MinGW\lib\gcc\x86_64-w64-mingw32\11.2.0\include-fixed
+-Ic:\MinGW\x86_64-w64-mingw32\include
+-target
+x86_64-w64-mingw32
